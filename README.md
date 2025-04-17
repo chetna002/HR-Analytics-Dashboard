@@ -1,5 +1,5 @@
 Description: This dataset contains information about employees, including demographic data, job characteristics, and performance metrics.
-
+Link-https://www.linkedin.com/posts/chetna-saini_hranalytics-datascience-employeeinsights-activity-7254738329416421376-oPJX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnoyn4BGPWrp1KrLx5tVTYl-Qe_4CvHNBs
 🏵 Key Features
 - Employee ID (unique identifier)
 - Age
